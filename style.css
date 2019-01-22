@@ -1,0 +1,63 @@
+.gec-no-hpadding {
+    padding-bottom: 0;
+    padding-top: 0;
+}
+
+.gec-centered {
+    margin: auto;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+}
+
+.gec-not-impl {
+    width: 40%;
+    height: 32px;
+}
+
+.gec-main-nav {
+    width: 15%;
+    height: 128px;
+}
+
+.gec-main-nav-button {
+    margin: 5px 0;
+}
+
+.mdl-button {
+    width: 100%;
+}
+
+.mdl-grid {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.mdl-cell {
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.gec-black {
+    color: black !important;
+}
+
+.gec-cube-1024 {
+    width: 1024px;
+    height: 1024px;
+}
+
+.gec-small-chart {
+    height: 512px;
+}
+
+#file {
+    display: none;
+}
+
+.gec-full-width {
+    width: 100%;
+}
