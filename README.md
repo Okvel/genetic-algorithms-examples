@@ -6,7 +6,7 @@ There are three tasks:
 1. Solving combinatorial optimization problems by the example of the traveling salesman problem using a genetic algorithm.
 ## The first laboratory work
 The task is implement application which will calculate minimum of function *f* using genetic algorithm with a binary representation of individuals.
-![Function *f* and it limits](/img/task-1.png)
+![Function *f* and it limits](/img/task-1.PNG)
 An initial population is randomly generated. Next methods are implemented in laboratory work: 
 * ranking is used to select parents;
 * single point crossover;
@@ -14,7 +14,7 @@ An initial population is randomly generated. Next methods are implemented in lab
 * the *N* best individuals are used as new generation.
 ## The second laboratory work
 The task is implement application which will implement calculation minimum of the 6th Schaeffer function using genetic algorythm with the representation of individuals in the form of real numbers.
-![The 6th Schaeffer function and it limits](/img/task-2.png)
+![The 6th Schaeffer function and it limits](/img/task-2.PNG)
 An initial population is randomly generated. Next methods are implemented in laboratory work:
 * ranking is used to select parents;
 * intermediate crossover;
@@ -25,3 +25,8 @@ The task is implement application which will solve the traveling salesman proble
 An initial population is randomly generated. City coordinates are stored in file in *test* directory. Representation of ways and cyclic crossover are used to implement task.
 # How to launch
 To launch application you can open file **home.html** and press button with number of laboratory work or just open **lab1.html**, **lab2.html** or **lab3.html** file.
+# Libraries
+Application was created using JavaScript and next libraries:
+* jQuery;
+* material design light;
+* plotly
