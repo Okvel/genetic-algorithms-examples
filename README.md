@@ -25,7 +25,7 @@ The task is implement application which will solve the traveling salesman proble
 An initial population is randomly generated. City coordinates are stored in file in *test* directory. Representation of ways and cyclic crossover are used to implement task.
 # How to launch
 To launch application you can open file **home.html** and press button with number of laboratory work or just open **lab1.html**, **lab2.html** or **lab3.html** file.
-# Libraries
+# Details
 Application was created using JavaScript and next libraries:
 * jQuery;
 * material design light;
